@@ -1,7 +1,4 @@
-h1{
-  font-size: 20px;
-}
-
-marquee{
-  font-size: 120px;
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/ProximaNova-Regular.woff') format('woff');
 }
